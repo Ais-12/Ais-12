@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vijayalakshmi S</h1>
 
-<h3 align="center">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;React+%7C+Python+Developer;AI+Enthusiast&center=true&width=500&height=50">
+</p>
+
+<!-- <h3 align="center">
 Full Stack Developer | React | Python | AI for Accessibility
-</h3>
+</h3> -->
 
 <p align="center">
   📍 Chennai, India
